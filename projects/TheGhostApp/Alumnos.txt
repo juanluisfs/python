@@ -1,3 +1,0 @@
-Juan Perez,@JuanPerez,password,@JuanLosOriginal,1,1,80.0
-Rafael de Jesús Treviño Alvarado,@RAFFA7734,raffa7734,@JuanLosOriginal,2,a,10.0
-Luis Perez,@43,abcdef,@JuanLosOriginal,2,2,10.0
