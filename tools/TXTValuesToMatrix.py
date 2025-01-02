@@ -20,5 +20,3 @@ intensity_data = read_intensity_file(filename)
 # Validate the matriz structure
 # Validar la estructura de la matriz
 print("Dimensiones de la matriz: ", len(intensity_data), "x", len(intensity_data[0]), "x", len(intensity_data[0][0]))
-
-j
